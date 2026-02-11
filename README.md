@@ -9,3 +9,4 @@ here's how to dl and use these:
 4. open 951672
 5. open index.html (or any file, some only work though a direct file open)
 6. enjoy!
+# OR INSTALL FROM RELEASE G4
