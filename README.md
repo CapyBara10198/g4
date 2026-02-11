@@ -7,5 +7,5 @@ here's how to dl and use these:
 2. select download zip
 3. open the ZIP upon finishing (click twice)
 4. open 951672
-5. open index.html
+5. open index.html (or any file, some only work though a direct file open)
 6. enjoy!
