@@ -10,3 +10,7 @@ here's how to dl and use these:
 5. open index.html (or any file, some only work though a direct file open)
 6. enjoy!
 # OR INSTALL FROM RELEASE G4
+1. click release G4
+2. scroll all the way down
+3. click source code (.zip)
+4. done!
